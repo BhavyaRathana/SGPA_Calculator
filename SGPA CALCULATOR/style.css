@@ -1,0 +1,22 @@
+body {
+    height: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 44rem;
+
+}
+
+h1 {
+    color: brown;
+    display: flex;
+    justify-content: center;
+    padding-top: 22rem;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
